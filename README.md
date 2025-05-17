@@ -31,4 +31,9 @@ this will start the server
 
 we can also use --reload to reload the server
 
+# Now file terminologies 
 
+@app is a decorator 
+.get is a operation
+('/') is a path
+And under the operation the there is a function which is called as operation function
