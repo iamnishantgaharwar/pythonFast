@@ -3,13 +3,13 @@ Install Python
 And to use fast api we can do it with two way that is installing it globally andanother is installing in virtual env 
 
 ### To install globally we can do 
-`pip3 install fastapi`
+```pip3 install fastapi```
 
-### To install in virtual env we need to make one first to do that we can use command `python3 -m venv nameOfFile-env / path`
+### To install in virtual env we need to make one first to do that we can use command ```python3 -m venv nameOfFile-env / path```
 
-`python3 -m venv fastapi-env`
+```python3 -m venv fastapi-env```
 
--m Stands for mode
+-m Stands for module means run module as a script
 
 
 After this we installed uvicorn it's basically like node which helps us to listen http request and all 
